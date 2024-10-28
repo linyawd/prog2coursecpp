@@ -4,7 +4,6 @@
 #include <stdio.h>
 
 int main12() {
-
     double t;
     t = 365 + 1 / (4 + ( 1 / (7 + (1  / (1 + 1/3.)))));
 
