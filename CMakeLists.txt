@@ -13,7 +13,8 @@ add_executable(proghome2 main.cpp
         #homework10/t_10_06z.cpp
         #homework10/t_10_16av.cpp
         #homework11/t_11_07d.cpp
-        homework11/t_11_11v.cpp
+        #homework11/t_11_11v.cpp
+        homework15/t_15_11.cpp
         #homework5/t_05_16l.cpp
         #homework5/t_05_12d.cpp
         #homework5/t_05_11a.cpp
