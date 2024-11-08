@@ -9,7 +9,10 @@ add_executable(proghome2 main.cpp
         #homework14/t_14_26.cpp
         #homework13/t_13_10.cpp
         #homework13/t_13_25.cpp
-        homework12/t_12_15.cpp
+        #homework12/t_12_15.cpp
+        #classwork/november4/task1.cpp
+        #classwork/november4/task2.cpp
+        homework17/t_17_03.cpp
 
         #homework6/t_06_12.cpp
         #homework6/t_06_24.cpp
