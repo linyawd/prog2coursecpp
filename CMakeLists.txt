@@ -4,6 +4,9 @@ project(proghome2)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(proghome2 main.cpp
+        #classwork/november22/task1.cpp
+        #homework19/t_19_08.cpp
+        homework19/t_19_12.cpp
         #homework16/t_16_05.cpp
         #homework14/t_14_05.cpp
         #homework14/t_14_26.cpp
@@ -13,7 +16,13 @@ add_executable(proghome2 main.cpp
         #classwork/november4/task1.cpp
         #classwork/november4/task2.cpp
         #homework17/t_17_03.cpp
-        homework18/t_18_03.cpp
+        #homework18/t_18_03.cpp
+        #classwork/november15/task2.cpp
+        #classwork/november15/task4.cpp
+        #classwork/november18/task1.cpp
+        #classwork/november22/task5.cpp
+        #classwork/november22/task4.cpp
+        #classwork/november18/task3.cpp
 
         #homework6/t_06_12.cpp
         #homework6/t_06_24.cpp
