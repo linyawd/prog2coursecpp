@@ -6,7 +6,9 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(proghome2 main.cpp
         #classwork/november22/task1.cpp
         #homework19/t_19_08.cpp
-        homework19/t_19_12.cpp
+        #homework19/t_19_12.cpp
+        #homework20/t20_12.cpp
+        homework20/t20_16.cpp
         #homework16/t_16_05.cpp
         #homework14/t_14_05.cpp
         #homework14/t_14_26.cpp
