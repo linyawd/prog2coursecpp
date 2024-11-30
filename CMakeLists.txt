@@ -8,7 +8,10 @@ add_executable(proghome2 main.cpp
         #homework19/t_19_08.cpp
         #homework19/t_19_12.cpp
         #homework20/t20_12.cpp
-        homework20/t20_16.cpp
+        #homework20/t20_16.cpp
+        #homework21/t_21_05.cpp
+        #homework21/t_21_14.cpp
+        homework21/t21_16.cpp
         #homework16/t_16_05.cpp
         #homework14/t_14_05.cpp
         #homework14/t_14_26.cpp
